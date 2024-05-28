@@ -13,20 +13,20 @@
 <p align="center">My Software Dev Tools</p>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,go,flutter,nextjs,react,vite,tailwind,discord"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,flutter,react,vite,tailwind,laravel"/>
   </a>
 </p>
 
 <p align="center">My Database Technology</p>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,elasticsearch,prisma"/>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
   </a>
 </p>
 
 <p align="center">Current Devops Tech</p>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=windows,linux,git,github,aws,gcp,docker"/>
+    <img src="https://skillicons.dev/icons?i=windows,git,github"/>
   </a>
 </p>
