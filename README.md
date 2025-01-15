@@ -1,5 +1,5 @@
-<h1 align="center">Profile Summary</h1>
-<h3 align="center">My top interest is mainly on Mobile dev and Complex System Architecture</h3>
+<h1 align="center">ReadMe</h1>
+<h3 align="center">Passionate about technology and continuous learning, I thrive on tackling challenging projects that push me to grow as a developer and expand my knowledge.</h3>
 
 <div align=center>
   <img width=298 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAFLY404&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
